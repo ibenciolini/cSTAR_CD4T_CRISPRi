@@ -34,6 +34,8 @@ Used in `4_NetworkSingleCell.ipynb` for edge validation against known interactio
 
 ```bash
 curl -o hsa04660.xml https://rest.kegg.jp/get/hsa04660/kgml
+curl -o hsa04310.xml https://rest.kegg.jp/get/hsa04310/kgml
+curl -o hsa04120.xml https://rest.kegg.jp/get/hsa04120/kgml
 ```
 
 Pathway page: https://www.kegg.jp/entry/hsa04660
